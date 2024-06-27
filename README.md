@@ -3,7 +3,7 @@ Analiz yapılacak veriler normal dağılıma sahip olmadıklarında verilere uyg
 
 2 farklı veriseti seçilip R Studio ve Python Jupyter Notebook üzerinden veriler analiz edilmiştir.
 
-![R Studio Logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1418270610/rannmc04vqi5nly0kmof.png) 
+![R Studio Logo](https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg)
 ![Python Logo](https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Jupyter-Notebook-EF5w-udy4.png)
 
 Seçilen verisetlerindeki grupların normallik varsayımı `Shapiro Wilk` normallik testi ile incelenmiştir.
